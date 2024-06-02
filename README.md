@@ -19,3 +19,20 @@ The dataset used for this Tableau dashboard analyzes patient emergency room visi
 
 This dataset provides valuable insights into patient demographics, their satisfaction levels, waiting times, and departmental referrals during emergency room visits. The dashboard visualizes this data to help identify trends and patterns, improve patient care, and optimize emergency room operations.
 
+
+## Emergency Room Visits Dashboard
+
+The following Tableau dashboard visualizes the emergency room visits data, providing insights into patient demographics, wait times, satisfaction scores, and departmental referrals.
+
+### Key Visualizations:
+- **Patient Gender Distribution**: Breakdown of emergency room visits by gender.
+- **Average Wait Time**: The average wait time for patients visiting the emergency room.
+- **Average Patient Satisfaction**: The average satisfaction score of patients on a scale from 1 to 10.
+- **Number of Patients by Age in ER**: Trends in the number of patients visiting the ER, segmented by age groups (0-18, 19-65, 66+).
+- **Patient Race Distribution**: The distribution of patients visiting the ER by race.
+- **Department Referrals**: The number of referrals to various departments such as General Practice, Orthopedics, etc.
+- **Heatmap of Wait Times**: A heatmap displaying the wait times across different days and times.
+
+This dashboard provides an interactive and comprehensive view of the emergency room data, helping to identify patterns and areas for improvement in patient care.
+
+---
