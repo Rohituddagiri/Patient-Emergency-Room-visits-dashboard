@@ -24,6 +24,7 @@ This dataset provides valuable insights into patient demographics, their satisfa
 
 The following Tableau dashboard visualizes the emergency room visits data, providing insights into patient demographics, wait times, satisfaction scores, and departmental referrals.
 
+![Emergency Room Visits Dashboard](https://github.com/Rohituddagiri/Patient-Emergency-Room-visits-dashboard/blob/main/ER%20visits%20dashboard.png)
 ### Key Visualizations:
 - **Patient Gender Distribution**: Breakdown of emergency room visits by gender.
 - **Average Wait Time**: The average wait time for patients visiting the emergency room.
